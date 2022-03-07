@@ -1,0 +1,3 @@
+[submodule "aws-module"]
+	path = aws-module
+	url = git@github.com:abessiari/dmodule.git
